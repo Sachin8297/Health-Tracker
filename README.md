@@ -15,9 +15,7 @@ Suggests daily water intake based on weight and activity level
 ✅ Health Tips Section
 Practical advice for fitness, nutrition, hydration, and mental wellness
 🛠️ Tech Stack
-Frontend: HTML, CSS, JavaScript
-Styling: Custom CSS
-Logic: Vanilla JavaScript
+HTML, Tailwind CSS, JavaScript / TypeScript, Vite
 
 
 
